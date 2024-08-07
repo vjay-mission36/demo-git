@@ -1,4 +1,4 @@
-Items to purchaged for new house:
+Items to purchased for new house:
 
 TV
 oven
@@ -8,3 +8,4 @@ Pillows
 water filter
 food coupns
 Water heaters
+Internet broadband
